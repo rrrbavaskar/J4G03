@@ -8,6 +8,6 @@ import { FormData } from './form-data';
 })
 export class AppComponent {
   public courses = ["Angular","React","Vue"];
-  public userModel = new FormData("Bill Gates","billgates@microsoft.com","493384459","Angular","evening",true);
+  public userModel = new FormData("Rutuja Bavaskar","rrbavaskar2020@gmail.com","9529243944","Angular","evening",true);
 
 }
