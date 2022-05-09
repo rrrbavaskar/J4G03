@@ -20,7 +20,7 @@
 	</bean>
 
 	<bean id="dinoHeart" class="com.tcn.autowire.Heart">
-		<property name="nameOfAnimal" value="Elephant" />
+		<property name="nameOfAnimal" value="Dinasour" />
 		<property name="noOfHeart" value="1" />
 	</bean>
 
